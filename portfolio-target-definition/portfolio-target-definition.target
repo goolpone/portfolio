@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.8"?>
-<target name="portfolio-target-definition" sequenceNumber="26">
+<target name="portfolio-target-definition" sequenceNumber="27">
 <locations>
 	<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 		<repository location="https://download.eclipse.org/eclipse/updates/4.16/R-4.16-202006040540/"/>
@@ -50,6 +50,7 @@
 		<unit id="org.eclipse.babel.nls_eclipse_nl.feature.group" version="4.14.0.v20200113020001"/>
 		<unit id="org.eclipse.babel.nls_eclipse_pt.feature.group" version="4.14.0.v20200113020001"/>
 		<unit id="org.eclipse.babel.nls_eclipse_fr.feature.group" version="4.14.0.v20200113020001"/>
+		<unit id="org.eclipse.babel.nls_eclipse_it.feature.group" version="4.14.0.v20200113020001"/>
 	</location>
 </locations>
 </target>
